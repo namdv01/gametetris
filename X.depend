@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1589549329 source:c:\users\administrator\documents\x\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"game.h"
+	<ctime>
+
+1589362642 source:c:\users\administrator\documents\x\src\updategame.cpp
+	"updategame.h"
+
+1589374437 c:\users\administrator\documents\x\include\updategame.h
+
+1589373522 source:c:\users\administrator\documents\x\src\tetrino.cpp
+	"tetrino.h"
+
+1589373573 c:\users\administrator\documents\x\include\tetrino.h
+
+1589372863 source:c:\users\administrator\documents\x\src\rendergame.cpp
+	"rendergame.h"
+
+1589373151 c:\users\administrator\documents\x\include\rendergame.h
+	<SDL.h>
+	<SDL_image.h>
+	<cstring>
+	<iostream>
+	"tetrino.h"
+
+1589549329 source:c:\users\administrator\documents\x\src\game.cpp
+	"game.h"
+
+1589549329 c:\users\administrator\documents\x\include\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
